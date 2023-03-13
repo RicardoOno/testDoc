@@ -1,1 +1,1 @@
-https://github.com/RicardoOno/testDoc/blob/master/app/html/index.html
+https://ricardoono.github.io/testDoc/app/html/index.html
